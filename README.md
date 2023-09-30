@@ -1,6 +1,3 @@
-GyeongJun Son
-gson@u.rochester.edu
-
 Creating a DFA and NFA that accepts certain strings.
 
 The file 'Finite Automata' contains all the files that are required to run the
